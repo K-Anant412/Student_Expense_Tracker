@@ -243,9 +243,3 @@ S_Expense_Tracker/
 ```
 
 ---
-
-## 📑 Project Report Deliverables
-
-- **Microsoft Word Documentation**: `Student_Expense_Tracker_Project_Report.docx`
-- **PDF Documentation**: `Student_Expense_Tracker_Project_Report.pdf`
-- Both documents adhere strictly to the college project report guidelines (Front Page, Certificate, Declaration, Acknowledgement, Index, Chapters 1–7, System Architecture, DFDs, UML Use Case / Class / Sequence Diagrams, ER Diagrams, Data Dictionary, Implementation Screenshots, Test Cases & Results, and Appendices).
